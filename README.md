@@ -27,6 +27,7 @@ This project is a full-stack Airbnb clone built using **React** and **Next.js**.
 
 
 
+
 ## Project Roles and Responsibilities
 
 | Role                    | Responsibilities                                                                                                                                                                | Contribution to Project Success                                                                                       |
@@ -39,6 +40,8 @@ This project is a full-stack Airbnb clone built using **React** and **Next.js**.
 | **DevOps Engineers**    | - Set up CI/CD pipelines<br>- Manage cloud infrastructure (e.g. Vercel, AWS)<br>- Monitor performance and deployments<br>- Handle rollback and environment setup                | Ensure smooth deployments, monitor uptime, and maintain a scalable and reliable infrastructure.                       |
 | **Product Owner**       | - Define project vision and roadmap<br>- Prioritize features based on user value<br>- Collaborate with stakeholders<br>- Accept or reject deliverables                          | Acts as the voice of the customer, aligning the team’s work with business goals and user needs.                       |
 | **Scrum Master**        | - Facilitate Agile ceremonies (sprints, standups, retrospectives)<br>- Remove blockers and ensure team focus<br>- Promote continuous improvement and collaboration              | Supports the team in following Agile best practices and maintaining high productivity and morale.                     |
+
+
 
 
 ## UI Component Patterns
