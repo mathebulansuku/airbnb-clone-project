@@ -26,6 +26,35 @@ This project is a full-stack Airbnb clone built using **React** and **Next.js**.
 | **Simple Checkout View**  | Allows users to review booking details, input guest information, and confirm the reservation.                                 | Booking summary, calendar, guest form, payment section (optional), confirmation CTA             |
 
 
+
+## Project Roles and Responsibilities
+
+| Role                    | Responsibilities                                                                                                                                                                | Contribution to Project Success                                                                                       |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| **Project Manager**     | - Oversees project timelines and deliverables<br>- Coordinates between teams<br>- Manages scope, risks, and communication                                                       | Ensures the project stays on track, within scope, and delivered on time. Acts as the central point of accountability. |
+| **Frontend Developers** | - Build responsive and interactive UI using React & Next.js<br>- Implement reusable components<br>- Integrate APIs and manage state<br>- Optimize performance and accessibility | Create a seamless and attractive user interface that enhances the user experience.                                    |
+| **Backend Developers**  | - Design and build RESTful APIs or backend logic<br>- Manage database schemas<br>- Implement authentication and data validation<br>- Ensure scalability and security            | Power the core business logic, data processing, and secure interactions behind the scenes.                            |
+| **Designers (UI/UX)**   | - Design wireframes and prototypes<br>- Conduct user research and feedback testing<br>- Create consistent visual components<br>- Ensure usability and accessibility             | Deliver user-centric designs that are intuitive, engaging, and align with branding and usability standards.           |
+| **QA/Testers**          | - Write and execute test cases<br>- Identify bugs and performance issues<br>- Ensure cross-browser and mobile compatibility<br>- Validate functionality before deployment       | Maintain software quality and reliability by catching defects early in the development cycle.                         |
+| **DevOps Engineers**    | - Set up CI/CD pipelines<br>- Manage cloud infrastructure (e.g. Vercel, AWS)<br>- Monitor performance and deployments<br>- Handle rollback and environment setup                | Ensure smooth deployments, monitor uptime, and maintain a scalable and reliable infrastructure.                       |
+| **Product Owner**       | - Define project vision and roadmap<br>- Prioritize features based on user value<br>- Collaborate with stakeholders<br>- Accept or reject deliverables                          | Acts as the voice of the customer, aligning the team’s work with business goals and user needs.                       |
+| **Scrum Master**        | - Facilitate Agile ceremonies (sprints, standups, retrospectives)<br>- Remove blockers and ensure team focus<br>- Promote continuous improvement and collaboration              | Supports the team in following Agile best practices and maintaining high productivity and morale.                     |
+
+
+## UI Component Patterns
+
+| Component                     | Description                                                                                                          | Purpose                                                                                       |
+| ----------------------------- | -------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| **Navbar**                    | A top navigation bar that includes branding, navigation links (e.g., Browse, Host, Login), and a mobile menu toggle. | Provides consistent site-wide navigation and enhances user accessibility across all pages.    |
+| **Property Card**             | A reusable card component that displays a property thumbnail, title, location, rating, and price per night.          | Used on the Property Listing View to showcase multiple listings in a clean, scannable format. |
+| **Footer**                    | A fixed or scrollable footer with links to About, Terms, Privacy, Contact, and social media.                         | Offers navigation to secondary site content and reinforces branding consistency.              |
+| **Search Bar**                | An input form component with filters for location, check-in/check-out dates, and guest count.                        | Enables users to find listings that match their needs efficiently.                            |
+| **Image Carousel**            | A slider for displaying multiple images of a property in the Listing Detail View.                                    | Improves the visual experience and allows users to preview listings interactively.            |
+| **Booking Summary**           | A sidebar or section displaying selected dates, price breakdown, and a "Reserve" button.                             | Guides the user through the checkout flow and clearly presents booking details.               |
+| **Button & Input Components** | Custom buttons and form elements with consistent styling and behavior across the app.                                | Ensures UI consistency and improves reusability across forms and interactions.                |
+
+
+
 ## 🚀 Getting Started
 
 Follow these instructions to run the project locally on your machine for development and testing purposes.
