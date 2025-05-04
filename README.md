@@ -17,6 +17,15 @@ This project is a full-stack Airbnb clone built using **React** and **Next.js**.
 
 ---
 
+## UI/UX Design Planning
+
+| Page                      | Description                                                                                                                   | Key UI Elements                                                                                 |
+| ------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| **Property Listing View** | Displays a grid of available properties with filtering and sorting options. Users can browse and select listings of interest. | Search bar, filters (location, price, date), grid of property cards, images, short descriptions |
+| **Listing Detailed View** | Shows comprehensive details of a selected property including photos, host info, reviews, and availability.                    | Image carousel, property description, map, host profile, amenities list, date picker            |
+| **Simple Checkout View**  | Allows users to review booking details, input guest information, and confirm the reservation.                                 | Booking summary, calendar, guest form, payment section (optional), confirmation CTA             |
+
+
 ## 🚀 Getting Started
 
 Follow these instructions to run the project locally on your machine for development and testing purposes.
