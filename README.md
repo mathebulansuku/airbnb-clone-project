@@ -28,7 +28,7 @@ This project is a full-stack Airbnb clone built using **React** and **Next.js**.
 
 
 
-## Project Roles and Responsibilities
+## Team Roles and Responsibilities
 
 | Role                    | Responsibilities                                                                                                                                                                | Contribution to Project Success                                                                                       |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
